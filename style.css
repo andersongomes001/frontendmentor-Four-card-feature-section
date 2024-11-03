@@ -97,6 +97,7 @@ main{
     margin-bottom: 10px; 
     border-radius: 6px;
     padding: 30px;
+    box-shadow: 0px 10px 10px 0px var(--color-neutral-grayish-blue);
 }
 
 .card > img {
